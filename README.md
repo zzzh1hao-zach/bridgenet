@@ -100,7 +100,7 @@ bridgenet/
 
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/bridgenet.git
+git clone https://github.com/zzzh1hao01/bridgenet.git
 cd bridgenet
 
 # Install dependencies
